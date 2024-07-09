@@ -1,0 +1,11 @@
+{
+  "name": "api-data-compilation-module",
+  "version": "1.0.0",
+  "description": "A module which takes two inputs to parse and compile information about some api endpoints. It takes a tree which is compiled and used as indexes for data in an API.",
+  "main": "APIParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
